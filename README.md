@@ -1,1 +1,1 @@
-# SaftAOAPI
+Uma API para facilitar aos desenvolvedores de software em Angola testarem seus arquivos SAFT sem complicações excessivas e burocracia do governo para ter acesso ao testador. Uma iniciativa que visa promover a liberdade e facilitar o processo de desenvolvimento de software e certificado pela AGT
