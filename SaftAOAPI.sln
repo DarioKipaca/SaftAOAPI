@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaftAOAPI", "SaftAOAPI\SaftAOAPI.csproj", "{57BDC2AD-1457-4EB5-B1C4-91275C9D434E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaftValidation", "SaftValidation\SaftValidation.csproj", "{54B1D8B7-6FD1-4DF0-8454-B0BDBB0FF246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57BDC2AD-1457-4EB5-B1C4-91275C9D434E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BDC2AD-1457-4EB5-B1C4-91275C9D434E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BDC2AD-1457-4EB5-B1C4-91275C9D434E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BDC2AD-1457-4EB5-B1C4-91275C9D434E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B1D8B7-6FD1-4DF0-8454-B0BDBB0FF246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B1D8B7-6FD1-4DF0-8454-B0BDBB0FF246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B1D8B7-6FD1-4DF0-8454-B0BDBB0FF246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B1D8B7-6FD1-4DF0-8454-B0BDBB0FF246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5536513-DDDF-4688-88D0-956CBA16CAA2}
+	EndGlobalSection
+EndGlobal
